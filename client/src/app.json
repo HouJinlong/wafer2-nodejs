@@ -1,0 +1,29 @@
+{
+  "pages": [],
+  "tabBar": {
+    "selectedColor": "#409EFF",
+    "list": [{
+      "pagePath": "pages/book",
+      "iconPath": "static/img/book.png",
+      "selectedIconPath": "static/img/book-active.png",
+      "text": "图书"
+    }, {
+      "pagePath": "pages/collect",
+      "iconPath": "static/img/todo.png",
+      "selectedIconPath": "static/img/todo-active.png",
+      "text": "收藏"
+    }, {
+      "pagePath": "pages/me",
+      "iconPath": "static/img/me.png",
+      "selectedIconPath": "static/img/me-active.png",
+      "text": "我的"
+    }]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#409EFF",
+    "navigationBarTitleText": "我的图书管",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#409EFF"
+  }
+}
