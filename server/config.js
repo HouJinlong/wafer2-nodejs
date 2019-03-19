@@ -6,9 +6,9 @@ const CONF = {
     tunnelServerUrl: '',
     tunnelSignatureKey: '',
     // 腾讯云相关配置
-    qcloudAppId: 1258044715,
-    qcloudSecretId: 'AKIDVo12sXxVpyxkXCR1B9wXwEKJ6h6J2CsM',
-    qcloudSecretKey: 'SmOuFPNBnDTYRCm9MPIzVpywrb9ZKvKX',
+    //qcloudAppId: ,
+    //qcloudSecretId: '',
+    //qcloudSecretKey: '',
     // 微信小程序 App ID
     appId: 'wx5916ab61197a06e5',
 
